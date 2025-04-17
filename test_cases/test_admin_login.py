@@ -1,16 +1,15 @@
 import pytest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-
 from base_pages.Login_Admin_page import Login_Admin_page
-
+from utilities.read_properties import Read_Config
 
 class Test_01_Admin_Login:
     # admin_page_url="https://admin-demo.nopcommerce.com/login"
-    admin_page_url="https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F"
-    username="admin@yourstore.com"
-    password="admin"
-    invalid_username="adminrendom@yourstore.com"
+    admin_page_url=Read_Config.get_admin_page_url()
+    username=Read_Config.get_username()
+    password=Read_Config.get_password()
+    invalid_username=Read_Config.get_invalid_username()
 
     def test_title_verification(self,setup):
         self.driver=setup
