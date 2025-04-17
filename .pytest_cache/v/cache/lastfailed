@@ -1,0 +1,4 @@
+{
+  "test_cases/test_admin_login.py::Test_01_Admin_Login::test_valid_admin_login": true,
+  "test_cases/test_admin_login.py::Test_01_Admin_Login::test_invalid_admin_login": true
+}
