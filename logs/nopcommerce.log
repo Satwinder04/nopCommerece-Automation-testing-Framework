@@ -24,3 +24,73 @@
 04/18/2025 12:20:36 AM: INFO: ***************test_valid_admin_login_started************************
 04/18/2025 12:20:43 AM: INFO: ***************test_invalid_admin_login_started************************
 04/18/2025 12:20:48 AM: INFO: ***************test_invalid_admin_login passed************************
+04/18/2025 12:27:12 AM: INFO: ***************test_01_admin_login************************
+04/18/2025 12:27:12 AM: INFO: ***************test_title_verification************************
+04/18/2025 12:27:12 AM: INFO: ***************test_invalid_admin_login_started************************
+04/18/2025 12:27:12 AM: INFO: ***************test_valid_admin_login_started************************
+04/18/2025 12:27:15 AM: INFO: ***************test_title_verification passed************************
+04/18/2025 12:27:16 AM: INFO: ***************test_invalid_admin_login passed************************
+04/18/2025 12:28:31 AM: INFO: ***************test_valid_admin_login passed************************
+04/18/2025 12:34:27 AM: INFO: ***************test_01_admin_login************************
+04/18/2025 12:34:27 AM: INFO: ***************test_title_verification************************
+04/18/2025 12:34:28 AM: INFO: ***************test_title_verification passed************************
+04/18/2025 12:34:30 AM: INFO: ***************test_valid_admin_login_started************************
+04/18/2025 12:34:34 AM: INFO: ***************test_valid_admin_login passed************************
+04/18/2025 12:34:36 AM: INFO: ***************test_invalid_admin_login_started************************
+04/18/2025 12:34:41 AM: INFO: ***************test_invalid_admin_login passed************************
+04/18/2025 12:50:26 AM: INFO: ***************test_01_admin_login************************
+04/18/2025 12:50:26 AM: INFO: ***************test_title_verification************************
+04/18/2025 12:50:28 AM: INFO: ***************test_title_verification passed************************
+04/18/2025 12:50:30 AM: INFO: ***************test_valid_admin_login_started************************
+04/18/2025 12:50:35 AM: INFO: ***************test_invalid_admin_login_started************************
+04/18/2025 12:50:49 AM: INFO: ***************test_01_admin_login************************
+04/18/2025 12:50:49 AM: INFO: ***************test_title_verification************************
+04/18/2025 12:50:51 AM: INFO: ***************test_title_verification passed************************
+04/18/2025 12:50:53 AM: INFO: ***************test_valid_admin_login_started************************
+04/18/2025 12:50:57 AM: INFO: ***************test_invalid_admin_login_started************************
+04/18/2025 12:59:17 AM: INFO: ***************test_01_admin_login************************
+04/18/2025 12:59:17 AM: INFO: ***************test_title_verification************************
+04/18/2025 12:59:20 AM: INFO: ***************test_title_verification passed************************
+04/18/2025 12:59:22 AM: INFO: ***************test_valid_admin_login_started************************
+04/18/2025 12:59:28 AM: INFO: ***************test_invalid_admin_login_started************************
+04/18/2025 01:01:47 AM: INFO: ***************test_01_admin_login************************
+04/18/2025 01:01:47 AM: INFO: ***************test_title_verification************************
+04/18/2025 01:01:49 AM: INFO: ***************test_title_verification passed************************
+04/18/2025 01:01:51 AM: INFO: ***************test_valid_admin_login_started************************
+04/18/2025 01:01:57 AM: INFO: ***************test_invalid_admin_login_started************************
+04/18/2025 01:02:58 AM: INFO: ***************test_01_admin_login************************
+04/18/2025 01:02:58 AM: INFO: ***************test_title_verification************************
+04/18/2025 01:03:00 AM: INFO: ***************test_title_verification passed************************
+04/18/2025 01:03:01 AM: INFO: ***************test_valid_admin_login_started************************
+04/18/2025 01:03:06 AM: INFO: ***************test_invalid_admin_login_started************************
+04/18/2025 01:03:46 AM: INFO: ***************test_01_admin_login************************
+04/18/2025 01:03:46 AM: INFO: ***************test_title_verification************************
+04/18/2025 01:03:48 AM: INFO: ***************test_title_verification passed************************
+04/18/2025 01:03:50 AM: INFO: ***************test_valid_admin_login_started************************
+04/18/2025 01:04:02 AM: INFO: ***************test_invalid_admin_login_started************************
+04/18/2025 01:04:04 AM: INFO: ***************test_invalid_admin_login passed************************
+04/18/2025 10:31:21 PM: INFO: ***************test_valid_admin_login_data_driven_started************************
+04/18/2025 10:32:06 PM: INFO: ***************test_valid_admin_login_data_driven_started************************
+04/18/2025 10:33:28 PM: INFO: ***************test_valid_admin_login_data_driven_started************************
+04/18/2025 10:35:19 PM: INFO: ***************test_valid_admin_login_data_driven_started************************
+04/18/2025 10:37:20 PM: INFO: ***************test_valid_admin_login_data_driven_started************************
+04/18/2025 10:39:27 PM: INFO: ***************test_valid_admin_login_data_driven_started************************
+04/18/2025 10:40:17 PM: INFO: ***************test_valid_admin_login_data_driven_started************************
+04/18/2025 10:41:39 PM: INFO: ***************test_valid_admin_login_data_driven_started************************
+04/18/2025 10:45:12 PM: INFO: ***************test_valid_admin_login_data_driven passed************************
+04/18/2025 10:48:50 PM: INFO: ***************test_valid_admin_login_data_driven_started************************
+04/18/2025 10:53:21 PM: INFO: ***************test_valid_admin_login_data_driven_started************************
+04/18/2025 10:55:11 PM: INFO: ***************test_valid_admin_login_data_driven_started************************
+04/18/2025 11:01:04 PM: INFO: ***************test_valid_admin_login_data_driven_started************************
+04/18/2025 11:19:19 PM: INFO: ***************test_01_admin_login************************
+04/18/2025 11:19:19 PM: INFO: ***************test_title_verification************************
+04/18/2025 11:19:21 PM: INFO: ***************test_title_verification passed************************
+04/18/2025 11:19:23 PM: INFO: ***************test_valid_admin_login_started************************
+04/18/2025 11:19:28 PM: INFO: ***************test_invalid_admin_login_started************************
+04/18/2025 11:21:16 PM: INFO: ***************test_01_admin_login************************
+04/18/2025 11:21:16 PM: INFO: ***************test_title_verification************************
+04/18/2025 11:21:22 PM: INFO: ***************test_title_verification passed************************
+04/18/2025 11:21:24 PM: INFO: ***************test_valid_admin_login_started************************
+04/18/2025 11:21:35 PM: INFO: ***************test_valid_admin_login passed************************
+04/18/2025 11:21:37 PM: INFO: ***************test_invalid_admin_login_started************************
+04/18/2025 11:21:43 PM: INFO: ***************test_invalid_admin_login passed************************

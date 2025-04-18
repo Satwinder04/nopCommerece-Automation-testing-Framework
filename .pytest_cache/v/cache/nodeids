@@ -1,5 +1,6 @@
 [
   "test_cases/test_admin_login.py::Test_01_Admin_Login::test_invalid_admin_login",
   "test_cases/test_admin_login.py::Test_01_Admin_Login::test_title_verification",
-  "test_cases/test_admin_login.py::Test_01_Admin_Login::test_valid_admin_login"
+  "test_cases/test_admin_login.py::Test_01_Admin_Login::test_valid_admin_login",
+  "test_cases/test_admin_login_data_driven.py::Test_02_Admin_Login_Data_Driven::test_valid_admin_login_data_driven"
 ]

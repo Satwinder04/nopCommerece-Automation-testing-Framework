@@ -1,0 +1,1 @@
+py -m pytest -v -s --html reports/report.html .\test_cases\test_admin_login.py

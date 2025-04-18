@@ -5,6 +5,7 @@ class Login_Admin_page:
     testbox_username_id="Email"
     testbox_password_id="Password"
     btn_login_xpath ="//button[@type='submit']"
+    logout_linktext="Logout"
 
     def __init__(self,driver):
         self.driver=driver
@@ -19,3 +20,6 @@ class Login_Admin_page:
 
     def click_login(self):
         self.driver.find_element(By.XPATH,self.btn_login_xpath).click()
+    
+    def click_logout(self):
+        self.driver.find_element(By.LINK_TEXT,self.logout_linktext).click()

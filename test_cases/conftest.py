@@ -1,6 +1,6 @@
 import pytest
 from selenium import webdriver
-
+from pytest_metadata.plugin import metadata_key
 
 def pytest_addoption(parser):
     parser.addoption("--browser",action="store",default="chrome",help="Type in browser name")
@@ -22,3 +22,15 @@ def setup(browser):
         raise ValueError("unsupported browser")
 
     return driver
+
+
+
+def pytest_configure(config):
+    config.stash[metadata_key]['Project Name'] = 'Ecommerce Project nopCommerce'
+    config.stash[metadata_key]['Module Name'] = 'Admin Login'
+    config.stash[metadata_key]['Tester'] = 'Satwinder Singh'
+
+@pytest.mark.optionalhook
+def pytest_metadata(metadata):
+    metadata.pop("JAVA_HOME",None)
+    metadata.pop("Plugins",None)
